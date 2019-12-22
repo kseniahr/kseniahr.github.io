@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Oksana Hrystiv"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.png"
   bio              : "Data Science Portfolio"
   location         : "Berlin, Germany"
   email            :
@@ -295,7 +295,7 @@ defaults:
       share: true
       related: true
 
-  # pages
+  # _pages
   - scope:
       path: ""
       type: pages
